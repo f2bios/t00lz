@@ -6,6 +6,8 @@ echo -e "      ░▀░░░▀▀▀░▀░▀░░▀░      $RESET"
 echo -e "░█▀▀░█▀▀░█▀█░█▀█░█▀█░█▀▀░█▀▄$RESET"
 echo -e "░▀▀█░█░░░█▀█░█░█░█░█░█▀▀░█▀▄$RESET"
 echo -e "░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀░▀$RESET"
+echo -e "         By @f2bios         $RESET"
+
 
 if [ -z "$1" ]; then
     echo "I'm waiting for your commands :D"
