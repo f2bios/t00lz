@@ -3,3 +3,5 @@ https://stackblitz.com/edit/angular-search-filter?file=app%2Fapp.component.css,a
 
 Add Delete Button To Show
 https://stackblitz.com/edit/add-delete-button-to-show?file=src%2Fmain.ts
+
+console.table(data);
