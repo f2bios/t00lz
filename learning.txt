@@ -6,6 +6,8 @@ https://stackblitz.com/edit/add-delete-button-to-show?file=src%2Fmain.ts
 
 console.table(data);
 
+---------------------
+
 How to Perform CRUD Operations using Angular 13
 https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/
 
