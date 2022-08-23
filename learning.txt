@@ -11,6 +11,9 @@ console.table(data);
 How to Perform CRUD Operations using Angular 13
 https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/
 
+How to Build a CRUD App in Angular
+https://www.syncfusion.com/blogs/post/how-to-build-a-crud-app-in-angular.aspx
+
 ---------------------
 
 https://www.freakyjolly.com/angular-service-example-crud-operations/
@@ -34,6 +37,4 @@ onDelete(id: any){
     }));
   }
   
-  ---------------------
-  
-  
+---------------------
