@@ -9,3 +9,29 @@ console.table(data);
 How to Perform CRUD Operations using Angular 13
 https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/
 
+---------------------
+
+https://www.freakyjolly.com/angular-service-example-crud-operations/
+
+app.component.html:
+<button type="button" (click)="onDelete(data.id)">Delete</button>
+
+app.component.ts:
+
+todoList:any = [];
+
+ngOnInit(): void {
+    this.listTodos();
+  }
+  
+onDelete(id: any){
+    this.crudHttpService.delete(id).subscribe((response)=>{
+      //this.listTodos();
+      console.log(response);
+    },(error=>{
+    }));
+  }
+  
+  ---------------------
+  
+  
